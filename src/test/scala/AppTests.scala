@@ -1,6 +1,6 @@
 import org.scalatest.flatspec.AnyFlatSpec
 
-class MainTests extends AnyFlatSpec {
+class AppTests extends AnyFlatSpec {
 
   "This basic test" should "always pass" in {
     assert(true)
